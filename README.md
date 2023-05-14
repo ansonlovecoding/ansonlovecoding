@@ -1,15 +1,17 @@
-## 频道介绍
+## Overview
 
-本频道主要为个人技术学习上面的整理和归纳，在业余时间内会丰富各个项目的文档讲解，一方面能够让自己对于知识点更加巩固，一方面说不定能够帮助到其他人，由于自己家境不是很好，所以从毕业以来就投入工作，赚钱养家养父母，基本上不敢在辞职后有任何休息就马上投入下一份工作，在加上自己的每一份工作基本上都非常忙碌，所以没有时间投入在技术整理上面，这其实对自己的职业生涯不是一件好事，因为项目上是用到了很多种语言，很多种技术，但由于没有归纳整理，会造成用过了就忘，根基不牢，认知不够深刻等等问题，这可能也是造成职业瓶颈的关键问题，所以我趁着这次疫情公司解散，再加上自己工作10年了也有一定储蓄，家里的负担也开始没有太大，就让自己好好空闲一段时间，好好整理自己的所学所用的技术栈，我相信只要踏出第一步，眼前的风景会更不一样，未来会继续坚持更新这个频道。
-
-
-
-## 频道作者
-
-10年开发生涯，迷茫大众中的一员，普通程序员，吉他音乐和文学爱好者，有对本频道的建议欢迎邮件联系：anson742169948@gmail.com
+This channel aims to summarize the technologies I learned and used in my career path. And I will share some open-source projects in this channel also. Hope I can do some contribution to the open-source world.
 
 
 
-## 频道目录
+## Author
 
-* Java必学的知识点整理及源码 <https://github.com/ansonlovecoding/java-learnning-demo.git>
+A passionate software engineer with over 10 years of experience in software development, project management, and team management. Feel free to contact me through email if you have any advice:[anson@junerain.dev](mailto:anson@junerain.dev)
+
+
+
+## Menu
+
+* The demo for Java learning: <https://github.com/ansonlovecoding/java-demo>
+* The demo for GoLang learning: https://github.com/ansonlovecoding/golang-demo
+* Something in management: https://github.com/ansonlovecoding/teammanagement
