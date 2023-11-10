@@ -14,4 +14,5 @@ Feel free to contact me through email if you have any advice:[anson@junerain.dev
 
 ## Menu
 
-* The demo for Java learning: <https://github.com/ansonlovecoding/java-demo
+* The demo for Java learning: https://github.com/ansonlovecoding/java-demo
+
