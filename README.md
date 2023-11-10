@@ -6,12 +6,12 @@ This channel aims to summarize the technologies I learned and used in my career 
 
 ## Author
 
-A passionate software engineer with over 10 years of experience in software development, project management, and team management. Feel free to contact me through email if you have any advice:[anson@junerain.dev](mailto:anson@junerain.dev)
+As an accomplished software engineer with over a decade of experience in software development, team management, and project management, I am equipped with the knowledge and expertise necessary to tackle any challenge in the field. My expertise includes GoLang, Java, and PHP, microservices, distributed services, Blockchain development, popular databases like MySQL, MongoDB, and SQLite, as well as cloud platforms such as AWS, Google Cloud, and Huawei Cloud. I have a proven track record of delivering high-quality results, and I am always eager to learn new technologies and programming languages to stay ahead of the curve.
+
+Feel free to contact me through email if you have any advice:[anson@junerain.dev](mailto:anson@junerain.dev)
 
 
 
 ## Menu
 
-* The demo for Java learning: <https://github.com/ansonlovecoding/java-demo>
-* The demo for GoLang learning: https://github.com/ansonlovecoding/golang-demo
-* Something in management: https://github.com/ansonlovecoding/teammanagement
+* The demo for Java learning: <https://github.com/ansonlovecoding/java-demo
